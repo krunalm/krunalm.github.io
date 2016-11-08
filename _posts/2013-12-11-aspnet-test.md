@@ -6,3 +6,10 @@ category: ""
 tags: [ASP.NET]
 ---
 {% include JB/setup %}
+
+ASP.NET CORE
+============
+
+** HELLO WORLD ASP.NET CORE **
+
+Wow!!
